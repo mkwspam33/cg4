@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access/>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Problem</label>
+        <live_feed_enabled>true</live_feed_enabled>
+        <name>problem</name>
+        <number_ref display_value="PRB">6</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Task" name="task">818ff9e419130010e8392d235be6727a</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2020-02-27 23:05:38</sys_created_on>
+        <sys_id>9591826c19d30010e8392d235be672e3</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Problem</sys_name>
+        <sys_package display_value="Problem Management" source="com.snc.problem">c591826c19d30010e8392d235be672ac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CGlobal 4">0fccb5f077130010ca3ab5b2681061dc</sys_scope>
+        <sys_update_name>sys_db_object_9591826c19d30010e8392d235be672e3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-28 17:27:35</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="CGlobal 4">0fccb5f077130010ca3ab5b2681061dc</claim_owner_scope>
+        <claim_timestamp>1708cd6d8430000001</claim_timestamp>
+        <metadata_update_name>sys_db_object_9591826c19d30010e8392d235be672e3</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>CGlobal 4</previous_claim_name>
+        <previous_claim_scope>0fccb5f077130010ca3ab5b2681061dc</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-28 17:27:35</sys_created_on>
+        <sys_id>0bcdb53477130010ca3ab5b2681061b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-28 17:27:35</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="CGlobal 4">0fccb5f077130010ca3ab5b2681061dc</claim_owner_scope>
+        <claim_timestamp>1708cca824f0000001</claim_timestamp>
+        <metadata_update_name>sys_db_object_9591826c19d30010e8392d235be672e3</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>CGlobal 3</previous_claim_name>
+        <previous_claim_scope>c84a757077130010ca3ab5b26810618a</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-28 17:27:35</sys_created_on>
+        <sys_id>8bcd7d3477130010ca3ab5b268106165</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-28 17:27:35</sys_updated_on>
+    </sys_claim>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="CGlobal 4">0fccb5f077130010ca3ab5b2681061dc</claim_owner_scope>
+        <claim_timestamp>1708cca82470000001</claim_timestamp>
+        <metadata_update_name>sys_db_object_9591826c19d30010e8392d235be672e3</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>com.snc.problem</previous_claim_name>
+        <previous_claim_scope>com.snc.problem</previous_claim_scope>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-28 17:27:35</sys_created_on>
+        <sys_id>c7cd7d3477130010ca3ab5b268106165</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-28 17:27:35</sys_updated_on>
+    </sys_claim>
+</record_update>

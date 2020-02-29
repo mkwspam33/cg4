@@ -16,46 +16,4 @@
         <sys_user_role display_value="sn_problem_write" name="sn_problem_write">71cb2cf2530033004558ddeeff7b126a</sys_user_role>
         <transaction_id/>
     </sys_security_acl_role>
-    <sys_claim action="INSERT_OR_UPDATE">
-        <claim_owner_scope display_value="CGlobal 4">0fccb5f077130010ca3ab5b2681061dc</claim_owner_scope>
-        <claim_timestamp>1708cd702860000001</claim_timestamp>
-        <metadata_update_name>sys_security_acl_role_61dc6132538033004558ddeeff7b12ce</metadata_update_name>
-        <previous_claim_app_version>1.0.0</previous_claim_app_version>
-        <previous_claim_name>CGlobal 4</previous_claim_name>
-        <previous_claim_scope>0fccb5f077130010ca3ab5b2681061dc</previous_claim_scope>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-02-28 17:27:46</sys_created_on>
-        <sys_id>a1dd317477130010ca3ab5b2681061ae</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-02-28 17:27:46</sys_updated_on>
-    </sys_claim>
-    <sys_claim action="INSERT_OR_UPDATE">
-        <claim_owner_scope display_value="CGlobal 4">0fccb5f077130010ca3ab5b2681061dc</claim_owner_scope>
-        <claim_timestamp>1708ccaacd70000001</claim_timestamp>
-        <metadata_update_name>sys_security_acl_role_61dc6132538033004558ddeeff7b12ce</metadata_update_name>
-        <previous_claim_app_version>1.0.0</previous_claim_app_version>
-        <previous_claim_name>CGlobal 3</previous_claim_name>
-        <previous_claim_scope>c84a757077130010ca3ab5b26810618a</previous_claim_scope>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-02-28 17:27:46</sys_created_on>
-        <sys_id>29dd317477130010ca3ab5b2681061ae</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-02-28 17:27:46</sys_updated_on>
-    </sys_claim>
-    <sys_claim action="INSERT_OR_UPDATE">
-        <claim_owner_scope display_value="CGlobal 4">0fccb5f077130010ca3ab5b2681061dc</claim_owner_scope>
-        <claim_timestamp>1708ccaacd30000001</claim_timestamp>
-        <metadata_update_name>sys_security_acl_role_61dc6132538033004558ddeeff7b12ce</metadata_update_name>
-        <previous_claim_app_version>1.0.0</previous_claim_app_version>
-        <previous_claim_name>com.snc.itsm.roles.problem_manag</previous_claim_name>
-        <previous_claim_scope>com.snc.itsm.roles.problem_manag</previous_claim_scope>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-02-28 17:27:46</sys_created_on>
-        <sys_id>65dd317477130010ca3ab5b2681061ae</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-02-28 17:27:46</sys_updated_on>
-    </sys_claim>
 </record_update>

@@ -120,10 +120,10 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-07-04 07:08:55</sys_created_on>
-            <sys_id>a6adf93477130010ca3ab5b268106174</sys_id>
+            <sys_id>06cc1eb077130010ca3ab5b2681061f7</sys_id>
             <sys_mod_count>2</sys_mod_count>
             <sys_name>state</sys_name>
-            <sys_package display_value="CGlobal 3" source="c84a757077130010ca3ab5b26810618a">c84a757077130010ca3ab5b26810618a</sys_package>
+            <sys_package display_value="CGlobal 4" source="0fccb5f077130010ca3ab5b2681061dc">0fccb5f077130010ca3ab5b2681061dc</sys_package>
             <sys_policy/>
             <sys_scope display_value="CGlobal 4">0fccb5f077130010ca3ab5b2681061dc</sys_scope>
             <sys_update_name>sys_choice_problem_state</sys_update_name>
@@ -131,46 +131,4 @@
             <sys_updated_on>2020-02-28 17:27:35</sys_updated_on>
         </sys_choice_set>
     </sys_choice>
-    <sys_claim action="INSERT_OR_UPDATE">
-        <claim_owner_scope display_value="CGlobal 4">0fccb5f077130010ca3ab5b2681061dc</claim_owner_scope>
-        <claim_timestamp>1708cd6da470000001</claim_timestamp>
-        <metadata_update_name>sys_choice_problem_state</metadata_update_name>
-        <previous_claim_app_version>1.0.0</previous_claim_app_version>
-        <previous_claim_name>CGlobal 4</previous_claim_name>
-        <previous_claim_scope>0fccb5f077130010ca3ab5b2681061dc</previous_claim_scope>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-02-28 17:27:35</sys_created_on>
-        <sys_id>03cd7d3477130010ca3ab5b268106172</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-02-28 17:27:35</sys_updated_on>
-    </sys_claim>
-    <sys_claim action="INSERT_OR_UPDATE">
-        <claim_owner_scope display_value="CGlobal 4">0fccb5f077130010ca3ab5b2681061dc</claim_owner_scope>
-        <claim_timestamp>1708cca845c0000001</claim_timestamp>
-        <metadata_update_name>sys_choice_problem_state</metadata_update_name>
-        <previous_claim_app_version>1.0.0</previous_claim_app_version>
-        <previous_claim_name>CGlobal 3</previous_claim_name>
-        <previous_claim_scope>c84a757077130010ca3ab5b26810618a</previous_claim_scope>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-02-28 17:27:35</sys_created_on>
-        <sys_id>87cd7d3477130010ca3ab5b268106172</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-02-28 17:27:35</sys_updated_on>
-    </sys_claim>
-    <sys_claim action="INSERT_OR_UPDATE">
-        <claim_owner_scope display_value="CGlobal 4">0fccb5f077130010ca3ab5b2681061dc</claim_owner_scope>
-        <claim_timestamp>1708cca84570000001</claim_timestamp>
-        <metadata_update_name>sys_choice_problem_state</metadata_update_name>
-        <previous_claim_app_version>1.0.0</previous_claim_app_version>
-        <previous_claim_name>com.snc.best_practice.problem.ma</previous_claim_name>
-        <previous_claim_scope>com.snc.best_practice.problem.ma</previous_claim_scope>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-02-28 17:27:35</sys_created_on>
-        <sys_id>c3cd7d3477130010ca3ab5b268106172</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-02-28 17:27:35</sys_updated_on>
-    </sys_claim>
 </record_update>

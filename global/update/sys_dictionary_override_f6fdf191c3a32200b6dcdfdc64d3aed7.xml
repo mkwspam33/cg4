@@ -31,46 +31,4 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-02-28 17:27:36</sys_updated_on>
     </sys_dictionary_override>
-    <sys_claim action="INSERT_OR_UPDATE">
-        <claim_owner_scope display_value="CGlobal 4">0fccb5f077130010ca3ab5b2681061dc</claim_owner_scope>
-        <claim_timestamp>1708cd6db4c0000001</claim_timestamp>
-        <metadata_update_name>sys_dictionary_override_f6fdf191c3a32200b6dcdfdc64d3aed7</metadata_update_name>
-        <previous_claim_app_version>1.0.0</previous_claim_app_version>
-        <previous_claim_name>CGlobal 4</previous_claim_name>
-        <previous_claim_scope>0fccb5f077130010ca3ab5b2681061dc</previous_claim_scope>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-02-28 17:27:36</sys_created_on>
-        <sys_id>cfcd7d3477130010ca3ab5b26810617e</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-02-28 17:27:36</sys_updated_on>
-    </sys_claim>
-    <sys_claim action="INSERT_OR_UPDATE">
-        <claim_owner_scope display_value="CGlobal 4">0fccb5f077130010ca3ab5b2681061dc</claim_owner_scope>
-        <claim_timestamp>1708cca85cc0000001</claim_timestamp>
-        <metadata_update_name>sys_dictionary_override_f6fdf191c3a32200b6dcdfdc64d3aed7</metadata_update_name>
-        <previous_claim_app_version>1.0.0</previous_claim_app_version>
-        <previous_claim_name>CGlobal 3</previous_claim_name>
-        <previous_claim_scope>c84a757077130010ca3ab5b26810618a</previous_claim_scope>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-02-28 17:27:36</sys_created_on>
-        <sys_id>47cd7d3477130010ca3ab5b26810617f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-02-28 17:27:36</sys_updated_on>
-    </sys_claim>
-    <sys_claim action="INSERT_OR_UPDATE">
-        <claim_owner_scope display_value="CGlobal 4">0fccb5f077130010ca3ab5b2681061dc</claim_owner_scope>
-        <claim_timestamp>1708cca85c70000001</claim_timestamp>
-        <metadata_update_name>sys_dictionary_override_f6fdf191c3a32200b6dcdfdc64d3aed7</metadata_update_name>
-        <previous_claim_app_version>1.0.0</previous_claim_app_version>
-        <previous_claim_name>com.snc.best_practice.problem.ja</previous_claim_name>
-        <previous_claim_scope>com.snc.best_practice.problem.ja</previous_claim_scope>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-02-28 17:27:36</sys_created_on>
-        <sys_id>83cd7d3477130010ca3ab5b26810617f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-02-28 17:27:36</sys_updated_on>
-    </sys_claim>
 </record_update>

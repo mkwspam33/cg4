@@ -16,46 +16,4 @@
         <sys_user_role display_value="itil_admin" name="itil_admin">28322f3cc611228500e20459e33eef34</sys_user_role>
         <transaction_id/>
     </sys_security_acl_role>
-    <sys_claim action="INSERT_OR_UPDATE">
-        <claim_owner_scope display_value="CGlobal 4">0fccb5f077130010ca3ab5b2681061dc</claim_owner_scope>
-        <claim_timestamp>1708cd6fdde0000001</claim_timestamp>
-        <metadata_update_name>sys_security_acl_role_9177e03bc0a801661955e4251e0e1c73</metadata_update_name>
-        <previous_claim_app_version>1.0.0</previous_claim_app_version>
-        <previous_claim_name>CGlobal 4</previous_claim_name>
-        <previous_claim_scope>0fccb5f077130010ca3ab5b2681061dc</previous_claim_scope>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-02-28 17:27:44</sys_created_on>
-        <sys_id>11dd317477130010ca3ab5b268106146</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-02-28 17:27:44</sys_updated_on>
-    </sys_claim>
-    <sys_claim action="INSERT_OR_UPDATE">
-        <claim_owner_scope display_value="CGlobal 4">0fccb5f077130010ca3ab5b2681061dc</claim_owner_scope>
-        <claim_timestamp>1708ccaa8780000001</claim_timestamp>
-        <metadata_update_name>sys_security_acl_role_9177e03bc0a801661955e4251e0e1c73</metadata_update_name>
-        <previous_claim_app_version>1.0.0</previous_claim_app_version>
-        <previous_claim_name>CGlobal 3</previous_claim_name>
-        <previous_claim_scope>c84a757077130010ca3ab5b26810618a</previous_claim_scope>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-02-28 17:27:44</sys_created_on>
-        <sys_id>95dd317477130010ca3ab5b268106146</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-02-28 17:27:44</sys_updated_on>
-    </sys_claim>
-    <sys_claim action="INSERT_OR_UPDATE">
-        <claim_owner_scope display_value="CGlobal 4">0fccb5f077130010ca3ab5b2681061dc</claim_owner_scope>
-        <claim_timestamp>1708ccaa8730000001</claim_timestamp>
-        <metadata_update_name>sys_security_acl_role_9177e03bc0a801661955e4251e0e1c73</metadata_update_name>
-        <previous_claim_app_version>1.0.0</previous_claim_app_version>
-        <previous_claim_name>com.glide.high_security</previous_claim_name>
-        <previous_claim_scope>com.glide.high_security</previous_claim_scope>
-        <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2020-02-28 17:27:44</sys_created_on>
-        <sys_id>d1dd317477130010ca3ab5b268106146</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-02-28 17:27:44</sys_updated_on>
-    </sys_claim>
 </record_update>
